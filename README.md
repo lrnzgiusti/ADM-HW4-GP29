@@ -2,7 +2,7 @@
 
 Welcome to the homework 4 repository.
 
-<img src = "https://img.im-cdn.it/assets/2018113001/img/common/og-image-600x600.png">
+<img src = "https://img.im-cdn.it/assets/2018113001/img/common/og-image-600x600.png", align = "center">
 
 *******************************************************
 ## Repository description
