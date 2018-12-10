@@ -2,7 +2,7 @@
 
 Welcome to the homework 4 repository.
 
-<div style=“align:center"> <img src="https://www.immobiliare.it/img/static-pages/showcase/illustrazione-numeri-uno.png"> </div>
+<div align = "center"> <img src="https://www.immobiliare.it/img/static-pages/showcase/illustrazione-numeri-uno.png"> </div>
 
 
 
