@@ -16,6 +16,14 @@ Welcome to the homework 4 repository.
 > This file contains all the functions about the <b>preprocessing</b>.
 
 
+
+<div align = "center"> <img src="<div align = "center"> <img src="https://www.immobiliare.it/img/static-pages/showcase/illustrazione-numeri-uno.png"> </div>
+
+"> </div>
+
+
+
+
 ## Homework text
 
 To see all the requests, you can go <a href = "https://github.com/CriMenghini/ADM-2018/tree/master/Homework_4"> here </a>.
@@ -32,3 +40,5 @@ To see all the requests, you can go <a href = "https://github.com/CriMenghini/AD
 
 
 * Bonaventure Uwamahirwe 
+
+
